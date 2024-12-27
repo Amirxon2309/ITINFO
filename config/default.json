@@ -1,0 +1,16 @@
+{
+  "port": 3030,
+        "dbAtlasUri": "mongodb://127.0.0.1/ITIINFO",
+  "tokenKey": "jsonwebtokenKey",
+  "tokenTime": "86400000",
+  "access_key": "AuthorAccessTokenSecretKey",
+  "refresh_key": "AuthorRefreshTokenSecretKey",
+  "access_time": "10s",
+  "refresh_time": "15s",
+  "refresh_token_ms": "1296000000",
+  "smtp_password": "lmaxuojwcfegoibe",
+  "smtp_user": "amirxoonhasanov@gmail.com",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "api_url": "http://localhost:3030"
+}

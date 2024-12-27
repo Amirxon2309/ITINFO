@@ -1,0 +1,676 @@
+2024-12-23T19:39:21.295Z  error: uncaughtException: unCaughException error
+Error: unCaughException error
+    at Timeout._onTimeout (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\controllers\author.controller.js:98:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-23T19:39:56.386Z  error: uncaughtException: unCaughException error
+Error: unCaughException error
+    at Timeout._onTimeout (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\controllers\author.controller.js:98:21)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+2024-12-24T04:50:06.244Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T04:50:07.997Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T04:51:00.945Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T04:59:28.598Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T04:59:50.388Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T05:00:17.523Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T05:00:59.114Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T05:01:09.328Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:9:23)
+2024-12-24T05:02:28.910Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:10:23)
+2024-12-24T05:02:53.983Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:10:23)
+2024-12-24T05:04:31.829Z  error: uncaughtException: Missing initializer in const declaration
+C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:2
+const winston 
+      ^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:10:23)
+2024-12-24T05:04:33.534Z  error: uncaughtException: Unexpected token 'const'
+C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.logger.js:3
+const expressWinston = require("express-winston");
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:10:23)
+2024-12-24T05:04:37.798Z  error: uncaughtException: winston is not defined
+ReferenceError: winston is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\expressWinston\expressWinston.Errorlogger.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:11:28)
+2024-12-24T10:33:11.257Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:33:13.074Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:33:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:33:39.829Z  error: uncaughtException: logger is not defined
+ReferenceError: logger is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:16:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:33:41.919Z  error: uncaughtException: logger is not defined
+ReferenceError: logger is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49
+2024-12-24T10:33:47.071Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:25:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:33:52.629Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:25:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:33:54.495Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:25:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:34:12.781Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:28:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:34:22.954Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:28:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:34:27.651Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:27:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:34:35.136Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:27:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:34:40.064Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:28:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:35:01.103Z  error: uncaughtException: Router.use() requires a middleware function but got a Object
+TypeError: Router.use() requires a middleware function but got a Object
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\router\index.js:469:13)
+    at Function.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:227:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\node_modules\express\lib\application.js:224:7)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:28:5)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-12-24T10:35:03.701Z  error: uncaughtException: Unexpected token 'export'
+SyntaxError: Unexpected token 'export'
+    at compileSourceTextModule (node:internal/modules/esm/utils:340:16)
+    at ModuleLoader.importSyncForRequire (node:internal/modules/esm/loader:318:18)
+    at loadESMFromCJS (node:internal/modules/cjs/loader:1381:24)
+    at Module._compile (node:internal/modules/cjs/loader:1503:5)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+2024-12-24T10:35:13.695Z  error: uncaughtException: rou is not defined
+ReferenceError: rou is not defined
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\routes\view.routes.js:37:18)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\app.js:8:20)
+2024-12-24T11:01:15.925Z  error: uncaughtException: Unexpected token ','
+C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\controllers\author.controller.js:114
+    res.status(200).send({ message: "Tizimga xush kelibsiz",, ...tokens });
+                                                            ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1469:18)
+    at Module._compile (node:internal/modules/cjs/loader:1491:20)
+    at Object..js (node:internal/modules/cjs/loader:1689:10)
+    at Module.load (node:internal/modules/cjs/loader:1318:32)
+    at Function._load (node:internal/modules/cjs/loader:1128:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+    at Module.require (node:internal/modules/cjs/loader:1340:12)
+    at require (node:internal/modules/helpers:141:16)
+    at Object.<anonymous> (C:\Users\Ahror\OneDrive\Desktop\Najot_talim\Result\ITINFO\routes\author.routes.js:11:5)
+2024-12-25T08:48:21.222Z  error: uncaughtException: Unexpected identifier 'validate'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:42
+      validate: {
+      ^^^^^^^^
+
+SyntaxError: Unexpected identifier 'validate'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:48:37.839Z  error: uncaughtException: def is not defined
+ReferenceError: def is not defined
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:37:7)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:48:40.018Z  error: uncaughtException: Unexpected token 'default'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:37
+      default
+      ^^^^^^^
+
+SyntaxError: Unexpected token 'default'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:48:42.478Z  error: uncaughtException: Unexpected token 'default'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:37
+      default
+      ^^^^^^^
+
+SyntaxError: Unexpected token 'default'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:49:02.316Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:72
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:49:17.622Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:66
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:49:28.901Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:47
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:15.341Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:47
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:16.751Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:47
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:26.006Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:4
+  {{}
+   ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:27.893Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:4
+  {{}    author_id: {
+   ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:31.250Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:46
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:33.681Z  error: uncaughtException: Unexpected token '{'
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:47
+  {
+  ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:50:48.549Z  error: uncaughtException: missing ) after argument list
+C:\Users\Amirxon\Desktop\ITINFO\schemas\Topic.js:47
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:3:15)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T08:51:35.182Z  error: uncaughtException: Unexpected identifier 'is_approved'
+C:\Users\Amirxon\Desktop\ITINFO\validations\topic.validation.js:30
+    is_approved: Joi.boolean().when("is_checked", {
+    ^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'is_approved'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO\controllers\topic.controller.js:4:29)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T10:46:49.181Z  error: uncaughtException: listen EADDRINUSE: address already in use :::3030
+Error: listen EADDRINUSE: address already in use :::3030
+    at Server.setupListenHandle [as _listen2] (node:net:1904:16)
+    at listenInCluster (node:net:1961:12)
+    at Server.listen (node:net:2063:7)
+    at Function.listen (C:\Users\Amirxon\Desktop\ITINFO_me\node_modules\express\lib\application.js:635:24)
+    at start (C:\Users\Amirxon\Desktop\ITINFO_me\app.js:35:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-12-25T11:50:14.075Z  error: uncaughtException: missing ) after argument list
+C:\Users\Amirxon\Desktop\ITINFO_me\routes\author.routes.js:19
+router.get("/all" getAuthors);
+           ^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO_me\routes\index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T11:52:27.692Z  error: uncaughtException: Unexpected token ','
+C:\Users\Amirxon\Desktop\ITINFO_me\routes\author.routes.js:19
+router.get("/all",, getAuthors);
+                  ^
+
+SyntaxError: Unexpected token ','
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO_me\routes\index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T11:52:44.117Z  error: uncaughtException: missing ) after argument list
+C:\Users\Amirxon\Desktop\ITINFO_me\routes\author.routes.js:19
+router.get("/all"y, getAuthors);
+           ^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO_me\routes\index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2024-12-25T11:52:50.798Z  error: uncaughtException: missing ) after argument list
+C:\Users\Amirxon\Desktop\ITINFO_me\routes\author.routes.js:19
+router.get("/all",authorPolice getAuthors);
+                  ^^^^^^^^^^^^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\Amirxon\Desktop\ITINFO_me\routes\index.routes.js:7:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
